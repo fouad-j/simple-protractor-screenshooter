@@ -1,0 +1,27 @@
+{
+  "name": "simple-protractor-screenshot",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "Utility for protractor with jasmine2 that allow to take screenshot for all your spec",
+  "homepage": "https://github.com/fouad-j/simple-protractor-screenshot#readme",
+  "author": "Fouad JADOUANI",
+  "license": "MIT",
+  "keywords": [
+    "jasmine2",
+    "protractor",
+    "protractor-screenshot",
+    "screenshot-on-failure",
+    "screenshot-on-sucess",
+    "protractor-utilities"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fouad-j/simple-protractor-screenshot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fouad-j/simple-protractor-screenshot/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
